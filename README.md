@@ -1,3 +1,2 @@
 # Sadyat-rfp
-Flow metatr
-big project
+Flow meter
